@@ -1,7 +1,7 @@
 
-# yadniki.github.io
+# philip0.github.io
 # Personal Portfolio 🔥
-> (https://yadnikis.github.io/yadniki.github.io/)
+> (https://philipo0.github.io/philipo0.github.io/)
 
 :star: Star me on GitHub — it helps!
 
